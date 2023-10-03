@@ -9,4 +9,5 @@ These are variations and derivations of noiseAUD sequencer for the KORG Volca Dr
 
 1. Elektron Model:Samples
 2. Elektron Model:Cycles
+3. Korg Monologue, using the self oscillating filter to get percusive sounds.
 
